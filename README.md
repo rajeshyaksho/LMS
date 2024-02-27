@@ -40,7 +40,7 @@ Borrowing books by "Borrowers."--
 
 Assumed Assumptions and Missing/Incomplete Requirements:
  Based on the requirements, the following are some missing or incomplete requirements:
- ● Therequirements do not specify how many copies of a book can be checked out at a
+ ● The requirements do not specify how many copies of a book can be checked out at a
  time.
  ● Therequirements do not specify what happens if a book is not returned on time.
  ● Therequirements do not specify how a borrower can renew a book.
