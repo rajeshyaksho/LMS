@@ -1,4 +1,4 @@
-# cse3330-project-2
+# CSE3330-project-2
 
 Contributors:
 - Rajesh Yaksho
