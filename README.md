@@ -46,9 +46,9 @@ Assumed Assumptions and Missing/Incomplete Requirements:
  Based on the requirements, the following are some missing or incomplete requirements:
  ● The requirements do not specify how many copies of a book can be checked out at a
  time.
- ● Therequirements do not specify what happens if a book is not returned on time.
- ● Therequirements do not specify how a borrower can renew a book.
- ● Therequirements do not specify how a borrower can return a book.
+ ● The requirements do not specify what happens if a book is not returned on time.
+ ● The requirements do not specify how a borrower can renew a book.
+ ● The requirements do not specify how a borrower can return a book.
  The following are some assumptions that were made that were not part of the requirements:
  ● Eachauthor has a unique name.
  ● Eachpublisher has a unique name.
