@@ -1,5 +1,9 @@
 # cse3330-project-2
 
+Contributors:
+- Rajesh Yaksho
+- Rishabh Mediratta
+
 Introduction:
  The Library Management System Database project aims to design and implement a robust
  database system to efficiently manage the operations of a library. This project addresses the
